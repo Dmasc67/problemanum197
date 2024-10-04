@@ -13,6 +13,7 @@
         <input type="text" id="frase" name="frase" required>
         <br><br>
         <input type="submit" value="Desencriptar a X">
+        <link rel="stylesheet" href="style.css">
     </form>
 
     <?php
